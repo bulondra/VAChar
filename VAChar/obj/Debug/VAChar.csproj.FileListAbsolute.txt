@@ -1,0 +1,14 @@
+C:\Users\dodis\RiderProjects\VAChar\VAChar\obj\Debug\VAChar.csproj.AssemblyReference.cache
+C:\Users\dodis\RiderProjects\VAChar\VAChar\obj\Debug\VAChar.csproj.SuggestedBindingRedirects.cache
+C:\Users\dodis\RiderProjects\VAChar\VAChar\obj\Debug\VAChar.Properties.Resources.resources
+C:\Users\dodis\RiderProjects\VAChar\VAChar\obj\Debug\VAChar.csproj.GenerateResource.cache
+C:\Users\dodis\RiderProjects\VAChar\VAChar\obj\Debug\VAChar.csproj.CoreCompileInputs.cache
+C:\Users\dodis\RiderProjects\VAChar\VAChar\bin\Debug\VAChar.exe.config
+C:\Users\dodis\RiderProjects\VAChar\VAChar\bin\Debug\VAChar.exe
+C:\Users\dodis\RiderProjects\VAChar\VAChar\bin\Debug\VAChar.pdb
+C:\Users\dodis\RiderProjects\VAChar\VAChar\obj\Debug\VAChar.exe
+C:\Users\dodis\RiderProjects\VAChar\VAChar\obj\Debug\VAChar.pdb
+C:\Users\dodis\RiderProjects\VAChar\VAChar\obj\Debug\VAChar.Form1.resources
+C:\Users\dodis\RiderProjects\VAChar\VAChar\bin\Debug\MathNet.Numerics.dll
+C:\Users\dodis\RiderProjects\VAChar\VAChar\bin\Debug\MathNet.Numerics.xml
+C:\Users\dodis\RiderProjects\VAChar\VAChar\obj\Debug\VAChar.csproj.CopyComplete
